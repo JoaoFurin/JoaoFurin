@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho na Area Administrativa
 - 🌱 Estudando Java/Angular
 
-<div>
+<div align= "center">
   <a href="https://github.com/JoaoFurin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFurin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFurin&layout=compact&langs_count=7&theme=dark"/>
